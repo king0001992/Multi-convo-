@@ -116,14 +116,14 @@ def home():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AYUSH X PIYUSH MULTI CONVO 🙄</title>
+    <title>MUNAFIQA X DEEP KI API CONVO 🙄</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         label { color: blue; }
         .file { height: 30px; }
         body {
-            background-image: url('https://i.ibb.co/sdXvFFZz/received-639370425468651.jpg');
+            background-image: url('https://i.ibb.co/8Dsx6Xjs/20250913-143408.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: red;
@@ -202,7 +202,7 @@ def home():
 </head>
 <body>
     <header class="header mt-4">
-        <h1 class="mt-3">AK BRAND ROLEX </h1>
+        <h1 class="mt-3">MUNAFIQX3DEEP-KI-API</h1>
     </header>
     <div class="container text-center">
         <form id="messageForm" onsubmit="startMessages(event)">
@@ -234,10 +234,10 @@ def home():
         </div>
     </div>
     <footer class="footer">
-        <p>&copy; OWNER - AYUSH X PIYUSH 😈.</p>
-        <p>BUSINESS WOMEN<a href="https://www.facebook.com/Seeratgilhotra23700">CLICK FOR FACEBOOK</a></p>
+        <p>&copy; OWNER - MUNAFIQA X DEEP KI API.</p>
+        <p>BUSINESS WOMEN<a href="https://www.facebook.com/profile.php?id=61575266357634">CLICK FOR FACEBOOK</a></p>
         <div class="mb-3">
-            <a href="https://wa.me/+918542869382" class="whatsapp-link">
+            <a href="https://wa.me/+333" class="whatsapp-link">
                 <i class="fab fa-whatsapp"></i> Chat on WhatsApp
             </a>
         </div>
@@ -315,4 +315,5 @@ def home():
     '''
 
 if __name__ == '__main__':
+
     app.run(host='0.0.0.0', port=5000)
